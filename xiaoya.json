@@ -20,7 +20,16 @@
 	    "filterable":0,
 	    "ext":"DOCKER_ADDRESS/tvbox/json/alist.json;50;video"
 	},
-	    {"key":"csp_Alist1", "name":"Alist合集(SP)", "type":3, "api":"csp_Alist", "searchable":1, "quickSearch":1, "filterable":0, "ext":"http://192.168.11.1:5244/alist.json"},
+	    {
+	    "key":"Alist",
+	    "name":"Alist2",
+	    "type":3,
+	    "api":"DOCKER_ADDRESS/tvbox/libs/alist.min.js",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":0,
+	    "ext":"192.168.11.1:5244.json;50;video"
+	},
         {
             "key": "dr_菜狗",
             "name": "菜狗(drpy)",
