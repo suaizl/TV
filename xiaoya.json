@@ -21,7 +21,7 @@
 	    "ext":"DOCKER_ADDRESS/tvbox/json/alist.json;50;video"
 	},
 	    {
-	    "key":"Alist",
+	    "key":"Alist2",
 	    "name":"Alist2",
 	    "type":3,
 	    "api":"DOCKER_ADDRESS/tvbox/libs/alist.min.js",
