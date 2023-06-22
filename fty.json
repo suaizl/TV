@@ -1,10 +1,15 @@
 {
 "spider":"./jar/fan.txt;md5;09baf4a03d362d96f0fc14085c343191",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
- "drives": [
+"drives": [
         {
-            "name": "Aliyun",
-            "server": "192.168.11.1:5244",
+            "name": "丫仙女",
+            "server": "DOCKER_ADDRESS",
+            "type": "alist"
+        },
+        {
+            "name": "🌊七米蓝",
+            "server": "https://al.chirmyram.com",
             "type": "alist"
         }
     ],
