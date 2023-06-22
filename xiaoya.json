@@ -8,8 +8,8 @@
             "type": "alist"
         },
         {
-            "name": "🌊七米蓝",
-            "server": "https://al.chirmyram.com",
+            "name": "Suai",
+            "server": "192.168.11.1:5244",
             "type": "alist"
         }
     ],
