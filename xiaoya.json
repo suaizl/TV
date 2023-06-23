@@ -12,10 +12,10 @@
             "server": "https://al.chirmyram.com",
             "type": "alist"
         },
-	{
-	"name": "🈴我的阿里分享",
-	"server": "http://192.168.11.1:5244/",
-	"startPage": "/🈴我的阿里分享",
+{
+	"name": "电视剧",
+	"server": "http://192.168.11.1:5678/",
+	"startPage": "/电视剧",
 	"showAll": false,
 	"search": true,
 	"params": {
