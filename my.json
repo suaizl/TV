@@ -23,7 +23,7 @@
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":0,
-	    "ext":"http://192.168.11.1:5678/tvbox/json/alist.json;50;video"
+	    "ext":"https://raw.githubusercontent.com/suaizl/TV/main/alist.json;50;video"
 	},
         {
             "key": "dr_菜狗",
