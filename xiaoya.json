@@ -14,7 +14,7 @@
         },
 	 {
             "name": "My Alist",
-            "server": "https:192.168.11.1:5244",
+            "server": "http://192.168.11.1:5244",
             "type": "alist"
         }    
     ],
