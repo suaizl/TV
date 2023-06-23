@@ -12,11 +12,21 @@
             "server": "https://al.chirmyram.com",
             "type": "alist"
         },
-	 {
-            "name": "My Alist",
-            "server": "http://192.168.11.1:5244/",
-            "type": "alist"
-        }    
+	{
+	"name": "🈴我的阿里分享",
+	"server": "http://192.168.11.1:5244/",
+	"startPage": "/🈴我的阿里分享",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+}
     ],
     "homepage": "http://alist.xiaoya.pro",
     "sites": [
