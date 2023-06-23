@@ -1,0 +1,122 @@
+[{
+	"name": "丫仙女",
+	"server": "http://192.168.11.1:5678/",
+	"startPage": "/",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+},
+{
+	"name": "每日更新",
+	"server": "http://192.168.11.1:5678/",
+	"startPage": "/每日更新",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+},
+{
+	"name": "电影",
+	"server": "http://192.168.11.1:5678/",
+	"startPage": "/电影",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+},
+{
+	"name": "电视剧",
+	"server": "http://192.168.11.1:5678/",
+	"startPage": "/电视剧",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+},
+{
+	"name": "综艺",
+	"server": "http://192.168.11.1:5678/",
+	"startPage": "/综艺",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+},
+{
+	"name": "纪录片",
+	"server": "http://192.168.11.1:5678/",
+	"startPage": "/纪录片",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+},
+{
+	"name": "🈴",
+	"server": "http://192.168.11.1:5678/",
+	"startPage": "/🈴我的阿里分享",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+},
+{
+        "name": "七米蓝",
+        "server": "https://al.chirmyram.com/",
+        "startPage": "/",
+        "showAll": false,
+        "search": true,
+        "params": {
+                "/abc": {
+                        "password": "123"
+                },
+                "/abc/abc": {
+                        "password": "123"
+                }
+        }
+}
+]
+
