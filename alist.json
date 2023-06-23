@@ -16,7 +16,7 @@
 {
 	"name": "🈴My Alist",
 	"server": "http://192.168.11.1:5244/",
-	"startPage": "/Aliyun",
+	"startPage": "/",
 	"showAll": false,
 	"search": true,
 	"params": {
