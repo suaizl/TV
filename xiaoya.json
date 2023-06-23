@@ -11,7 +11,12 @@
             "name": "🌊七米蓝",
             "server": "https://al.chirmyram.com",
             "type": "alist"
-        }
+        },
+	 {
+            "name": "My Alist",
+            "server": "https:192.168.11.1:5244",
+            "type": "alist"
+        }    
     ],
     "homepage": "http://alist.xiaoya.pro",
     "sites": [
