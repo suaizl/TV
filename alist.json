@@ -14,6 +14,21 @@
 	}
 },
 {
+	"name": "🈴My Alist",
+	"server": "http://192.168.11.1:5244/",
+	"startPage": "/",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+},
+{
 	"name": "每日更新",
 	"server": "http://192.168.11.1:5678/",
 	"startPage": "/每日更新",
